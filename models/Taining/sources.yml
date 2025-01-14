@@ -1,0 +1,7 @@
+sources:
+  - name: PUBLIC
+    database: DATA
+    schema: PUBLIC
+    tables:
+      - name: TAX
+        identifier: TAXCALC
